@@ -1,0 +1,116 @@
+site_name: "Cicada CTF 2026 — Official Documentation"
+site_description: "End-to-End Event Record, Operational Handbook & Stakeholder Report for Cicada CTF 2026 (BIT Mesra & IEEE Student Branch)"
+site_author: "Cicada CTF 2026 Documentation Team"
+docs_dir: "."
+site_dir: "dist/site"
+
+exclude_docs: |
+  10-appendices/contact-directory-INTERNAL.md
+  scripts/*
+  dist/*
+
+theme:
+  name: material
+  palette:
+    - scheme: slate
+      primary: black
+      accent: teal
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.arithmatex:
+      generic: true
+
+nav:
+  - Home: README.md
+  - "00. Front Matter":
+      - "Cover Page": 00-front-matter/cover-page.md
+      - "About the Event": 00-front-matter/about-the-event.md
+      - "About Organizers": 00-front-matter/about-organizers.md
+      - "Acknowledgements": 00-front-matter/acknowledgements.md
+      - "Table of Contents": 00-front-matter/table-of-contents.md
+  - "01. Planning & Prep":
+      - "Ideation & Concept": 01-planning-and-preparation/ideation-and-concept.md
+      - "Timeline & Milestones": 01-planning-and-preparation/timeline-and-milestones.md
+      - "Budget Overview": 01-planning-and-preparation/budget-overview.md
+      - "Meeting Minutes Index": 01-planning-and-preparation/meeting-minutes/README.md
+      - "MM-001: Kickoff Meeting": 01-planning-and-preparation/meeting-minutes/001-kickoff-meeting.md
+  - "02. Organizing Teams":
+      - "Documentation Team": 02-teams/documentation-team.md
+      - "Logistics Team": 02-teams/logistics-team.md
+      - "PR & Design Team": 02-teams/pr-and-design-team.md
+      - "Sponsorship Team": 02-teams/sponsorship-team.md
+      - "Outreach Team": 02-teams/outreach-team.md
+      - "Development Team": 02-teams/development-team.md
+  - "03. Participant Lifecycle":
+      - "Registration & Eligibility": 03-participant-lifecycle/registration-and-eligibility.md
+      - "Team Formation Rules": 03-participant-lifecycle/team-formation-rules.md
+      - "Selection & Shortlisting": 03-participant-lifecycle/selection-and-shortlisting.md
+      - "Participant Communication": 03-participant-lifecycle/communication-to-participants.md
+  - "04. Technical":
+      - "CTF Format & Rules": 04-technical/ctf-format-and-rules.md
+      - "Platform & Infrastructure": 04-technical/platform-and-infrastructure.md
+      - "Challenge Design": 04-technical/challenge-design.md
+      - "Scoring & Leaderboard": 04-technical/scoring-and-leaderboard.md
+      - "Security & Anti-Cheating": 04-technical/security-and-anti-cheating.md
+      - "Technical Issues Log": 04-technical/technical-issues-and-resolutions.md
+  - "05. Outreach, PR & Sponsors":
+      - "Marketing & Social Media": 05-outreach-pr-sponsorship/marketing-and-social-media.md
+      - "Posters & Design Assets": 05-outreach-pr-sponsorship/posters-and-design-assets.md
+      - "Outreach Campaigns": 05-outreach-pr-sponsorship/outreach-campaigns.md
+      - "Sponsors & Partners": 05-outreach-pr-sponsorship/sponsors-and-partners.md
+  - "06. Logistics":
+      - "Venue & Setup": 06-logistics/venue-and-setup.md
+      - "Equipment & Network": 06-logistics/equipment-and-network.md
+      - "Schedule & Run of Show": 06-logistics/schedule-and-run-of-show.md
+      - "Volunteers & Roles": 06-logistics/volunteers-and-roles.md
+      - "Food, Travel & Stay": 06-logistics/food-travel-accommodation.md
+      - "Safety & Emergency Plan": 06-logistics/safety-and-emergency-plan.md
+  - "07. Event Days":
+      - "Day-Wise Report": 07-event-days/day-wise-report.md
+      - "Inauguration & Ceremonies": 07-event-days/inauguration-and-ceremonies.md
+      - "Opening & Closing": 07-event-days/opening-and-closing.md
+      - "Incidents Log": 07-event-days/incidents-log.md
+  - "08. Results & Post-Event":
+      - "Final Results & Winners": 08-results-and-post-event/final-results-and-winners.md
+      - "Prize Distribution": 08-results-and-post-event/prize-distribution.md
+      - "Feedback Analysis": 08-results-and-post-event/feedback-analysis.md
+      - "Financial Summary": 08-results-and-post-event/financial-summary.md
+      - "Lessons Learned": 08-results-and-post-event/lessons-learned.md
+      - "Recommendations for Next Edition": 08-results-and-post-event/recommendations-for-next-edition.md
+  - "09. Media":
+      - "Photo Index": 09-media/photo-index.md
+      - "Image Guidelines & Shot List": 09-media/image-guidelines.md
+  - "10. Appendices & Governance":
+      - "Glossary": 10-appendices/glossary.md
+      - "Missing Information Tracker": 10-appendices/missing-information-tracker.md
+      - "Team Lead Questionnaires": 10-appendices/team-lead-questionnaires.md
+      - "Templates":
+          - "Meeting Minutes": 10-appendices/templates/meeting-minutes-template.md
+          - "Daily Event Log": 10-appendices/templates/daily-event-log-template.md
+          - "Incident Report": 10-appendices/templates/incident-report-template.md
+          - "Sponsor Deliverable Tracker": 10-appendices/templates/sponsor-deliverable-tracker.md
+          - "Volunteer Duty Roster": 10-appendices/templates/volunteer-duty-roster.md
+          - "Post-Event Feedback Form": 10-appendices/templates/post-event-feedback-form.md
+          - "Challenge Documentation": 10-appendices/templates/challenge-documentation-template.md
+      - "Executive Reports & Governance":
+          - "Executive Summary (1-Page)": 10-appendices/governance-and-reports/executive-summary.md
+          - "Sponsor & College Report": 10-appendices/governance-and-reports/sponsor-and-college-report.md
+          - "Documentation Style Guide": 10-appendices/governance-and-reports/documentation-style-guide.md
+          - "Documentation Workflow Plan": 10-appendices/governance-and-reports/documentation-workflow-plan.md
+          - "Master Documentation Checklist": 10-appendices/governance-and-reports/master-documentation-checklist.md
