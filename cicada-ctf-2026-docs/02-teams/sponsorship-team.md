@@ -34,6 +34,8 @@ The **Sponsorship Team** drives the financial sustainability and corporate partn
 | 11 | **Anushka Singh** | Sponsorship Coordinator | BIT Mesra (Roll: `BTECH/10358/25`) | Partner coordination, deliverable tracking, and follow-up communications |
 | 12 | **Hemakshi Agrawal** | Corporate Relations Member | CSE (Roll: `BTECH/11030/25`) | Corporate outreach, sponsor relations, and event-day hospitality alignment |
 | 13 | **Saurav Pradhan** | Inter-Team Sponsorship Liaison | BIT Mesra (Roll: `BTECH/10222/25`) | Coordinating sponsorship deliverables with outreach campaigns |
+| 14 | **Apurva Anand** | Corporate Relations Member | CSE (Roll: `BTECH/10495/25`) | Corporate communications, sponsor engagement, and MoU follow-ups |
+| 15 | **Yash Agarwal (Yash Agrawal)** | Corporate Relations Member | CSE (Roll: `BTECH/10499/25`) | Partner outreach, client communications, and deliverable fulfillment |
 
 ---
 
@@ -82,7 +84,7 @@ The **Sponsorship Team** drives the financial sustainability and corporate partn
 > ⚠️ TBD: Record challenges in Q4 corporate budget cycles, MoU turnaround times, or payment processing | Owner: Sponsorship Team | Due: Post-Event
 
 ## 7. Outcomes and Metrics
-- **Total Team Members:** 13 confirmed members
+- **Total Team Members:** 15 confirmed members
 - **Total Companies Contacted:** `TBD`
 - **Total Confirmed Sponsors (Cash + In-Kind):** `TBD`
 - **Total Funds Raised (INR):** `TBD`

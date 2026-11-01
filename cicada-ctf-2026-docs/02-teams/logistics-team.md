@@ -1,7 +1,7 @@
 # Logistics Team
 
 ## 1. Overview
-The **Logistics Team** is responsible for all physical, operational, scheduling, hospitality, and on-ground execution aspects of **Cicada CTF 2026**. From securing institutional permissions and preparing the venue to managing equipment, networks, volunteers, food, accommodation, and emergency readiness, the team ensures seamless day-to-day operations.
+The **Logistics Team** is responsible for all physical, operational, scheduling, hospitality, and on-ground execution aspects of **Cicada CTF 2026**. Led by **Shounak Ray**, the team oversees venue preparation, seating arrangements, power distribution, local networking, schedule adherence, volunteer management, hospitality, and emergency safety readiness at BIT Mesra.
 
 ---
 
@@ -17,16 +17,15 @@ The **Logistics Team** is responsible for all physical, operational, scheduling,
 ---
 
 ## 2. Responsible Team and Members (Member Table)
-> ⚠️ TBD: Official member roster for the Logistics Team is pending submission from the Core Committee | Owner: Logistics Team Lead / Core Committee | Due: 2026-11-10
-> *(Note: Personal phone numbers and email addresses are stored exclusively in `10-appendices/contact-directory-INTERNAL.md`)*
+*(Note: Roll numbers and internal phone numbers are strictly archived in `10-appendices/contact-directory-INTERNAL.md` in compliance with privacy guidelines.)*
 
 | S.No. | Name | Role | Year / Branch | Key Contributions |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | `TBD` | Logistics Team Lead | `TBD` | Overall venue, permissions, and run-of-show management |
-| 2 | `TBD` | Venue & Infrastructure Coordinator | `TBD` | Hall booking, seating layout, power & LAN coordination |
-| 3 | `TBD` | Volunteer & Floor Coordinator | `TBD` | Volunteer duty rosters, shift management, helpdesk operations |
-| 4 | `TBD` | Hospitality, Food & Accommodation Lead | `TBD` | Catering vendors, outstation participant stay, guest protocol |
-| 5 | `TBD` | Safety & Procurement Coordinator | `TBD` | Inventory, signage placement, first-aid & emergency response |
+| 1 | **Shounak Ray** | Logistics Team Leader | BIT Mesra (Roll: `Btech/10548/25`) | Overall operations, venue bookings, run-of-show enforcement, team coordination |
+| 2 | **Raghav Agarwal** | Venue & Facilities Coordinator | BIT Mesra (`Branch: TBD`) | Hall arrangement, furniture layout, space management, and setup inspection |
+| 3 | **Chris Fonseca** | Technical & Floor Logistics Coordinator | CSE (Roll: `Btech/10570/25`) | Power distribution, AV equipment setup, and competition floor operations |
+| 4 | **Diganta Swar** | Network & Operations Coordinator | ECE (Roll: `BTECH/10561/25`) | Network setup, hardware coordination, volunteer shifts, and venue readiness |
+| 5 | **Vibhor Goel** | Hospitality & Safety Coordinator | BIT Mesra (Roll: `Btech/10527/25`) | Catering logistics, guest hospitality, first-aid station, and emergency coordination |
 
 ---
 
@@ -76,6 +75,7 @@ The **Logistics Team** is responsible for all physical, operational, scheduling,
 > ⚠️ TBD: Document logistical hurdles (e.g., power backups, campus curfew permissions, vendor delays) and solutions | Owner: Logistics Team | Due: Post-Event
 
 ## 7. Outcomes and Metrics
+- **Total Team Members:** 5 confirmed members
 - **Total Venues / Rooms Managed:** `TBD`
 - **Total Volunteers Deployed:** `TBD`
 - **On-Time Schedule Adherence (%):** `TBD`
@@ -89,5 +89,5 @@ The **Logistics Team** is responsible for all physical, operational, scheduling,
 > ⚠️ TBD: Capture operational learnings for future BIT Mesra committees | Owner: Logistics Team | Due: Post-Event
 
 ## 10. Open Items / TBD
-> ⚠️ TBD: Logistics Team member roster is missing from input documents; submit roster | Owner: Core Committee | Due: 2026-11-10
+> ⚠️ TBD: Confirm academic branch and roll number for Raghav Agarwal | Owner: Logistics Team Lead | Due: 2026-11-10
 > ⚠️ TBD: Confirm exact competition dates, mode, and venue at BIT Mesra | Owner: Logistics Team Lead | Due: 2026-11-10

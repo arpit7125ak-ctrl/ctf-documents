@@ -11,11 +11,11 @@
 This internal-only directory centralizes emergency contacts, faculty coordinators, organizing committee members, and student leaders for operational coordination during **Cicada CTF 2026**.
 
 ## 2. Responsible Team and Members
-- **Primary Custodians:** Gaurav Gupta (Documentation Team Lead) & Saurav Pradhan (Outreach Team Lead)
+- **Primary Custodians:** Gaurav Gupta (Documentation Team Lead), Shounak Ray (Logistics Team Lead), and Saurav Pradhan (Outreach Team Lead)
 - **Access Level:** Organizing Committee Leads & Faculty Advisors Only
 
 ## 3. Timeline
-- **Populated By:** 2026-11-01 (Updated from official member registers)
+- **Populated By:** 2026-11-01 (Updated with Logistics & expanded Sponsorship rosters)
 - **Purged / Archived Post-Event:** `2026-12-31`
 
 ---
@@ -93,9 +93,17 @@ This internal-only directory centralizes emergency contacts, faculty coordinator
 | **Anushka Singh** | Member | BIT Mesra | `BTECH/10358/25` | `6206918989` | Deliverable tracking |
 | **Hemakshi Agrawal** | Member | CSE | `BTECH/11030/25` | `8169315779` | Corporate liaison |
 | **Saurav Pradhan** | Member | BIT Mesra | `BTECH/10222/25` | `9097308713` | Outreach alignment |
+| **Apurva Anand** | Member | CSE | `BTECH/10495/25` | `7488168794` | Corporate relations |
+| **Yash Agarwal (Yash Agrawal)** | Member | CSE | `BTECH/10499/25` | `7300710520` | Partner pitches & tracking |
 
 #### 5. Logistics Team
-> ⚠️ TBD: Member roster and contacts pending submission from Core Committee | Owner: Logistics Lead | Due: 2026-11-10
+| Name | Role | Branch | Roll Number | Contact Number | Internal Notes |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Shounak Ray** | **Team Leader** | BIT Mesra | `Btech/10548/25` | `8092690226` | Overall logistics lead |
+| **Raghav Agarwal** | Member | BIT Mesra | `TBD` | `TBD` | Venue & facilities |
+| **Chris Fonseca** | Member | CSE | `Btech/10570/25` | `TBD` | Technical & floor logistics |
+| **Diganta Swar** | Member | ECE | `BTECH/10561/25` | `8617511098` | Network & operations |
+| **Vibhor Goel** | Member | BIT Mesra | `Btech/10527/25` | `6393430734` | Hospitality & safety |
 
 #### 6. PR & Design Team
 > ⚠️ TBD: Member roster and contacts pending submission from Core Committee | Owner: PR & Design Lead | Due: 2026-11-10
@@ -103,23 +111,19 @@ This internal-only directory centralizes emergency contacts, faculty coordinator
 ---
 
 ## 5. Additional Verified Club Members & Resource Pool
-The following active club members from IEEE Student Branch / IET Student Chapter records are available for mobilization across Logistics, PR & Design, and Event-Day Volunteer operations:
+The following active club members from IEEE Student Branch / IET Student Chapter records remain available for mobilization across PR & Design and Event-Day Volunteer operations:
 - **Priyanka Chakraborty** (CSE, `BTECH/10369/25`, `8271188451`)
 - **Ashwin Raj** (ECE, `Btech/10235/25`, `7992308316`)
-- **Apurva Anand** (CSE, `BTECH/10495/25`, `7488168794`)
 - **Shourya Lakshmi** (CSE, `BTECH/10529/25`, `9546247166`)
 - **Mayank Bisht** (AIML, `BTECH/10698/25`, `9045446612`)
-- **Diganta Swar** (ECE, `BTECH/10561/25`, `8617511098`)
 - **Harshvardhan Choudhary** (AIML, `btech1102425`, `9199233225`)
 - **Ronit Solanki** (CSE, `Btech1110825`)
 - **Satyam Kumar** (Mechanical, `BTECH/10651/25`, `9939053378`)
 - **Atin Singh** (Mechanical, `BTECH/10321/25`)
 - **Harman Singh** (ECE, `BTECH/10517/25`)
 - **Ayan Adeeb** (CSE, `BTECH/10081/25`, `9341877750`)
-- **Chris Fonseca** (CSE, `Btech/10570/25`)
 - **Ayushman Bhattacharya** (CSE, `Btech-10151-25`, `9142211034`)
 - **Pratyush Ranjan** (CSE, `BTECH/10437/25`, `9201315588`)
-- **Yash Agrawal** (CSE, `BTECH/10499/25`, `7300710520`)
 - **Kapil Sahu** (AIML, `BTECH/10741/25`)
 - **Ashwath Srinivasan** (CSE, `btech/10138/25`, `6379189963`)
 - **Priyanshu Kumar** (CSE, `btech/10839/25`, `9415246550`)
@@ -128,9 +132,7 @@ The following active club members from IEEE Student Branch / IET Student Chapter
 - **Arnav Rathore** (Roll: `BTECH/11066/25`, `7903577900`)
 - **Harsh Swami** (Roll: `BTECH/10168/25`, `9763153101`)
 - **Nishita** (Roll: `BTECH/10544/25`, `9102963113`)
-- **Shounak Ray** (Roll: `Btech/10548/25`, `8092690226`)
 - **Amar Hans** (Roll: `BTECH/10060/25`, `8797546799`)
-- **Vibhor Goel** (Roll: `Btech/10527/25`, `6393430734`)
 - **Uplakshya Gupta** (Roll: `BTECH/10420/25`, `9259679322`)
 - **Yash Raj** (Roll: `Btech/10593/25`, `9123240503`)
 - **Mudit Raj** (Roll: `BTECH/10632/25`, `8507805541`)
@@ -146,8 +148,8 @@ The following active club members from IEEE Student Branch / IET Student Chapter
 *Tracked.*
 
 ## 7. Outcomes and Metrics
-- **Total Team Members Logged with Direct Contacts:** 42 active organizers
-- **Total Additional Mobilizable Members Logged:** 31 student members
+- **Total Team Members Logged with Direct Contacts:** 49 active organizers across 5 teams
+- **Total Additional Mobilizable Members Logged:** 25 student members
 
 ## 8. Photo/Media Section
 *Not applicable for internal contact directory.*
@@ -156,4 +158,4 @@ The following active club members from IEEE Student Branch / IET Student Chapter
 - Maintaining a verified central contact register prevents communication bottlenecks during high-pressure competition days.
 
 ## 10. Open Items / TBD
-> ⚠️ TBD: Submit Logistics Team and PR & Design Team member assignments | Owner: Core Committee | Due: 2026-11-10
+> ⚠️ TBD: Submit PR & Design Team member assignments | Owner: Core Committee | Due: 2026-11-10

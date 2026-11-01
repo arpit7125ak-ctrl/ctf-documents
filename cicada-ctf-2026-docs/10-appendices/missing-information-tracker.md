@@ -23,9 +23,9 @@ This file is the single source of truth for **every unconfirmed item (`TBD`)** a
 | `TBD-001` | [README.md](../README.md), [00.1 Cover Page](../00-front-matter/cover-page.md), [00.2 About the Event](../00-front-matter/about-the-event.md) | **Exact event dates** in Early December 2026 (Start & End dates/times IST) | Logistics & Core | 2026-11-10 | 🔴 Open |
 | `TBD-002` | [README.md](../README.md), [00.2 About the Event](../00-front-matter/about-the-event.md), [06.1 Venue](../06-logistics/venue-and-setup.md) | **Competition Mode** (`Online` / `Offline` / `Hybrid`) and **Confirmed Venue / Halls** at BIT Mesra | Logistics & Core | 2026-11-10 | 🔴 Open |
 | `TBD-003` | [02.1 Documentation Team](../02-teams/documentation-team.md) & [10.1 Internal Contacts](contact-directory-INTERNAL.md) | Complete **Documentation Team Roster** (Lead: Gaurav Gupta + 5 members confirmed) | Documentation | 2026-11-01 | 🟢 **Resolved** |
-| `TBD-004` | [02.2 Logistics Team](../02-teams/logistics-team.md) & [10.1 Internal Contacts](contact-directory-INTERNAL.md) | Complete **Logistics Team Roster** (`Name, Role, Year/Branch, Key Contributions` + internal contacts) | Logistics / Core | 2026-11-10 | 🔴 Open *(Missing in input files)* |
-| `TBD-005` | [02.3 PR & Design Team](../02-teams/pr-and-design-team.md) & [10.1 Internal Contacts](contact-directory-INTERNAL.md) | Complete **PR & Design Team Roster** (`Name, Role, Year/Branch, Key Contributions` + internal contacts) | PR & Design / Core | 2026-11-10 | 🔴 Open *(Missing in input files)* |
-| `TBD-006` | [02.4 Sponsorship Team](../02-teams/sponsorship-team.md) & [10.1 Internal Contacts](contact-directory-INTERNAL.md) | Complete **Sponsorship Team Roster** (Lead: Anooz Burnwal + 12 members confirmed) | Sponsorship | 2026-11-01 | 🟢 **Resolved** |
+| `TBD-004` | [02.2 Logistics Team](../02-teams/logistics-team.md) & [10.1 Internal Contacts](contact-directory-INTERNAL.md) | Complete **Logistics Team Roster** (Lead: Shounak Ray + 4 members confirmed) | Logistics | 2026-11-01 | 🟢 **Resolved** |
+| `TBD-005` | [02.3 PR & Design Team](../02-teams/pr-and-design-team.md) & [10.1 Internal Contacts](contact-directory-INTERNAL.md) | Complete **PR & Design Team Roster** (`Name, Role, Year/Branch, Key Contributions` + internal contacts) | PR & Design / Core | 2026-11-10 | 🔴 Open *(Pending submission)* |
+| `TBD-006` | [02.4 Sponsorship Team](../02-teams/sponsorship-team.md) & [10.1 Internal Contacts](contact-directory-INTERNAL.md) | Complete **Sponsorship Team Roster** (Lead: Anooz Burnwal + 14 members confirmed) | Sponsorship | 2026-11-01 | 🟢 **Resolved** |
 | `TBD-007` | [02.5 Outreach Team](../02-teams/outreach-team.md) & [10.1 Internal Contacts](contact-directory-INTERNAL.md) | Complete **Outreach Team Roster** (Lead: Saurav Pradhan + 6 members confirmed) | Outreach | 2026-11-01 | 🟢 **Resolved** |
 | `TBD-008` | [02.6 Development Team](../02-teams/development-team.md) & [10.1 Internal Contacts](contact-directory-INTERNAL.md) | Complete **Development Team Roster** (Platform Lead: Kishan + Challenge Lead: Bhavya Varshney + 14 members confirmed) | Development | 2026-11-01 | 🟢 **Resolved** |
 | `TBD-009` | [00.3 About Organizers](../00-front-matter/about-organizers.md), [00.4 Acknowledgements](../00-front-matter/acknowledgements.md) | Full names & designations of **BIT Mesra Faculty Coordinator, IEEE Branch Counselor, HoD, Dean, and IEEE Student Branch Executive Board** | Documentation | 2026-11-10 | 🔴 Open |
@@ -86,8 +86,8 @@ This file is the single source of truth for **every unconfirmed item (`TBD`)** a
 ---
 
 ## 5. Decisions Made and Why
-- **Decision:** Mark `TBD-003`, `TBD-006`, `TBD-007`, and `TBD-008` as **Resolved** based on verified repository records, while explicitly maintaining clear TBD placeholders for the two teams without member records (**Logistics Team** and **PR & Design Team**).
-- **Rationale:** Strict adherence to the zero-fabrication rule while maximizing documented data.
+- **Decision:** Marked `TBD-004` (Logistics Team Roster) and updated `TBD-006` (Sponsorship Team Roster) as **🟢 Resolved** following committee submission.
+- **Rationale:** 5 out of 6 organizing team rosters are now fully resolved and archived. Only PR & Design Team remains pending.
 
 ## 6. Challenges Faced and How They Were Solved
 *Tracked.*
@@ -96,12 +96,12 @@ This file is the single source of truth for **every unconfirmed item (`TBD`)** a
 | Owner Team | Total TBDs Assigned | Resolved | Pending (Pre-Event) | Scheduled (Event/Post) |
 | :--- | :--- | :--- | :--- | :--- |
 | **1. Documentation Team** | 10 | 1 | 4 | 5 |
-| **2. Logistics Team** | 12 | 0 | 9 | 3 |
+| **2. Logistics Team** | 12 | 1 | 8 | 3 |
 | **3. PR & Design Team** | 5 | 0 | 4 | 1 |
 | **4. Sponsorship Team** | 6 | 1 | 3 | 2 |
 | **5. Outreach Team** | 8 | 1 | 5 | 2 |
 | **6. Development Team** | 11 | 1 | 7 | 3 |
-| **Total Across Repository (Unique IDs)** | **41** | **4** | **27** | **10** |
+| **Total Across Repository (Unique IDs)** | **41** | **5** | **26** | **10** |
 
 ## 8. Photo/Media Section
 *Not applicable.*
@@ -110,4 +110,4 @@ This file is the single source of truth for **every unconfirmed item (`TBD`)** a
 - Real-time resolution of team roster dependencies unblocks parallel drafting across functional tracks.
 
 ## 10. Open Items / TBD
-> ⚠️ TBD: Submit Logistics Team and PR & Design Team rosters (`TBD-004`, `TBD-005`) | Owner: Core Committee | Due: 2026-11-10
+> ⚠️ TBD: Submit PR & Design Team roster (`TBD-005`) | Owner: Core Committee | Due: 2026-11-10
