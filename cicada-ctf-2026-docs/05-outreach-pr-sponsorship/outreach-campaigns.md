@@ -23,6 +23,9 @@ This section documents the institutional, inter-college, IEEE student branch, an
 4. **Competitive CTF Community Listing:** Listing on competition aggregators (`TBD: CTFtime / Unstop / Devfolio`).
 
 ### 4.2 Institution & Community Outreach Tracker
+- **Master College & Club Email Directory (115+ NITs, IIITs, IITs & Private Colleges):** [College Outreach Contacts](./college-outreach-contacts.md)
+- **Coding, CyberSec & IEEE Clubs Instagram Directory (90+ Handles):** [Coding Clubs Instagram Directory](./coding-clubs-instagram.md)
+
 | S.No. | Target Institution / Club / Community | Location / Region | Outreach Channel | Community Partner MoU? | Registered Teams Generated |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | BIT Mesra (Main Campus) | Ranchi, Jharkhand | Internal / On-Campus | Host Institution | `TBD` |

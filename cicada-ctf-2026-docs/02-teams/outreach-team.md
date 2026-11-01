@@ -53,6 +53,8 @@ The **Outreach Team** leads participant acquisition, inter-college promotion, cy
 
 ## 4. Detailed Description & Key Deliverables
 1. **Outreach Campaign Tracker & Partner List:** Documented in [05.3 Outreach Campaigns](../05-outreach-pr-sponsorship/outreach-campaigns.md).
+  - **Master College & Club Outreach Contact Directory (Emails):** Documented in [College Outreach Contacts](../05-outreach-pr-sponsorship/college-outreach-contacts.md).
+  - **Coding & CyberSec Clubs Instagram Handle Directory:** Documented in [Coding Clubs Instagram Directory](../05-outreach-pr-sponsorship/coding-clubs-instagram.md).
 2. **Registration & Eligibility Guidelines:** Documented in [03.1 Registration and Eligibility](../03-participant-lifecycle/registration-and-eligibility.md) and [03.2 Team Formation Rules](../03-participant-lifecycle/team-formation-rules.md).
 3. **Shortlisting & Final Participant Roster:** Documented in [03.3 Selection and Shortlisting](../03-participant-lifecycle/selection-and-shortlisting.md).
 4. **Participant Communication Archive:** Documented in [03.4 Communication to Participants](../03-participant-lifecycle/communication-to-participants.md).
