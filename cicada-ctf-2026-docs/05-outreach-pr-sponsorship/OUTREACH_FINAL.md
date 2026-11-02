@@ -7,20 +7,20 @@
 
 ## Master Table of Contents
 
-1. **[Quick-Dial Directory: All Named Contacts with Phone Numbers & WhatsApp Cards](#1-quick-dial-directory-all-named-contacts-with-phone-numbers--whatsapp-cards)**
+1. **[Quick-Dial Directory: All Named Indian Contacts with Phone Numbers & WhatsApp Cards](#1-quick-dial-directory-all-named-indian-contacts-with-phone-numbers--whatsapp-cards)**
 2. **[Priority 1A & 1B: All 31 NITs + IIEST Shibpur (Clubs, Named Leads, Phone Numbers, Emails & Instagram Handles)](#2-priority-1a--1b-all-31-nits--iiest-shibpur-clubs-named-leads-phone-numbers-emails--instagram-handles)**
 3. **[Priority 2: All 28 IIITs (Clubs, Named Leads, Phone Numbers, Emails & Instagram Handles)](#3-priority-2-all-28-iiits-clubs-named-leads-phone-numbers-emails--instagram-handles)**
 4. **[Priority 3A & 3B: All 23 IITs (Clubs, Named Leads, Phone Numbers, Emails & Instagram Handles)](#4-priority-3a--3b-all-23-iits-clubs-named-leads-phone-numbers-emails--instagram-handles)**
 5. **[Priority 4: DTU, NSUT & 32+ Regional/Private Engineering Colleges (Clubs, Named Leads, Phones, Emails & Instagram Handles)](#5-priority-4-dtu-nsut--32-regionalprivate-engineering-colleges-clubs-named-leads-phones-emails--instagram-handles)**
-6. **[Priority 5: 50 Additional Indian & International College Clubs (Master Table with Names, Phones, Emails & Insta Handles)](#6-priority-5-50-additional-indian--international-college-clubs-master-table-with-names-phones-emails--insta-handles)**
-7. **[Deep-Dive Club Rosters: KIIT (6 Clubs), IIIT Hyderabad (5 Clubs), IEEE NSUT, NSUT AIAS, IEEE DTU & GDG IIIT Allahabad](#7-deep-dive-club-rosters-kiit-6-clubs-iiit-hyderabad-5-clubs-ieee-nsut-nsut-aias-ieee-dtu--gdg-iiit-allahabad)**
+6. **[Priority 5: 40 Additional Indian College Technical & Coding Clubs (Master Table with Names, Phones, Emails & Insta Handles)](#6-priority-5-40-additional-indian-college-technical--coding-clubs-master-table-with-names-phones-emails--insta-handles)**
+7. **[Deep-Dive Club Rosters: KIIT (6 Clubs), IIIT Hyderabad (5 Clubs), IEEE NSUT, NSUT AIAS, IEEE DTU, GDG IIIT Allahabad & 40 Indian Club Profiles](#7-deep-dive-club-rosters-kiit-6-clubs-iiit-hyderabad-5-clubs-ieee-nsut-nsut-aias-ieee-dtu-gdg-iiit-allahabad--40-indian-club-profiles)**
 8. **[Complete Coding, CyberSec & IEEE Clubs Instagram Directory (95+ Official Handles)](#8-complete-coding-cybersec--ieee-clubs-instagram-directory-95-official-handles)**
 9. **[Quick-Copy Bulk BCC Email Lists & Ready-to-Use Email / Instagram DM Templates](#9-quick-copy-bulk-bcc-email-lists--ready-to-use-email--instagram-dm-templates)**
 
 ---
 
-## 1. Quick-Dial Directory: All Named Contacts with Phone Numbers & WhatsApp Cards
-*All verified student presidents, general secretaries, club heads, and faculty coordinators who have direct phone numbers or WhatsApp contact cards.*
+## 1. Quick-Dial Directory: All Named Indian Contacts with Phone Numbers & WhatsApp Cards
+*All verified student presidents, general secretaries, club heads, and faculty coordinators across Indian institutes who have direct phone numbers or WhatsApp contact cards.*
 
 | # | College / Institute | Club / Society | Person Name & Role | Direct Phone / WhatsApp | Email / Website / Social | Coding Club Instagram Handle |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -45,8 +45,6 @@
 | 19 | **Usha Martin Univ. (UMU), Ranchi** | **CSE Dept / Tech Cell** | University Tech Coordinator | **`+91 93555 64011`** | `info@ushamartinuniversity.com` | — |
 | 20 | **CIT Tatisilwai, Ranchi** | **CSE Dept / Principal Office** | CSE / Technical Desk | **`+91 99314 44441`** | `info@citranchi.ac.in` | — |
 | 21 | **LPU Phagwara, PB** | **Division of Student Affairs** | Student Coding/Cyber Clubs Desk | **`+91-1824-517000`** | `registrar@lpu.co.in` | — |
-| 22 | **Southern Utah Univ., USA** | **Cyber Defense Competition Club** | **Dr. Glen Sagers** (Faculty Advisor) | **`(435) 865-8634`** | `glensagers@suu.edu` | — |
-| 23 | **Sacramento City College, USA** | **IT & Cybersecurity Club** | **Omair Qazi** (President); **Joseph Cheung** (Co-Advisor) | **`(916) 501-8208`** *(J. Cheung)*<br>**`(916) 606-6846`** *(Co-Advisor)* | `cheungj@scc.losrios.edu`<br>`kainaa@scc.losrios.edu` | — |
 
 ---
 
@@ -223,7 +221,7 @@
 
 ---
 
-## 6. Priority 5: 50 Additional Indian & International College Clubs (Master Table with Names, Phones, Emails & Insta Handles)
+## 6. Priority 5: 40 Additional Indian College Technical & Coding Clubs (Master Table with Names, Phones, Emails & Insta Handles)
 
 | # | College | Club | Named Student Lead(s) & Role | Faculty Coordinator / Advisor | Direct Email / Phone / Instagram Handle | Official Source |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -267,24 +265,12 @@
 | 38 | **Jerusalem College of Engineering, Chennai, TN** | Electronics Club | **Grishma R** (President); **Sriram M** (VP) | **Dr. S. Vinod; Ms. S. Rudhra** | • Source page | https://jerusalemengg.ac.in/department/electrical-electronics-engineering/electronics-club.php |
 | 39 | **Manipal University Jaipur (MUJ), RJ** | ACM MUJ Student Chapter | Not listed | **Dr. Akhilesh Kumar Sharma** | • Email: `akhileshkumar.sharma@jaipur.manipal.edu`<br>• Phone: **`7987628589`** | https://jaipur.manipal.edu/fosta/dsw-engineering.php |
 | 40 | **GNITS, Hyderabad, TG** | InsightAI | Not captured | **L. Smitha; Vaishnavi** | • Phones: **`9440462962`** *(L. Smitha)*; **`9441418775`** *(Vaishnavi)* | https://www.gnits.ac.in/?p=38920 |
-| 41 | **University of Detroit Mercy, Michigan, USA** | Detroit Mercy Cybersecurity Club | 2026-27 officers on source page | **Anne Kohnke; Gregory Laidlaw** | • Emails: `kohnkean@udmercy.edu`; `laidlags@udmercy.edu` | https://sites.udmercy.edu/cyberclub/officers-advisors/ |
-| 42 | **Chittagong Independent University (CIU), Bangladesh** | CIU Robotics Club | **Fahmida Tahsin** (President); **Md. Sahid Hossain** (VP Tech); **Abu Mushaid Ivn Musa Alif** (VP Admin); **Rasfi Nur** (Gen Secy) | **Dr. Aseef Iqbal** | • Emails: `aseef@ciu.edu.bd`; `22102017@ciu.edu.bd` | https://ciu.ac.bd/?p=6520 |
-| 43 | **Cleveland State University, Ohio, USA** | CSU Robotics Club | Not listed | **Toufik Adija** | • Emails: `csurobotics@gmail.com`; `t.aidja@csuohio.edu` | https://engineering.csuohio.edu/student-resources/engineering-student-organizations |
-| 44 | **Tennessee Technological University, USA** | Autonomous Robotics Club (ARC) | Not listed | **Dr. Stephen Canfield** | • Via ME student organizations page | https://ouweb.tntech.edu/engineering/programs/me/student-org.php |
-| 45 | **Southern Utah University, USA** | Cyber Defense Competition Club (CDCC) | Not listed | **Dr. Glen Sagers** | • Email: `glensagers@suu.edu`<br>• Phone: **`(435) 865-8634`** | https://www.suu.edu/cscy/clubs-orgs.html |
-| 46 | **Sacramento City College, California, USA** | IT & Cybersecurity Club | **Omair Qazi** (President); **Simon Vu Truong** (Treasurer) | **Joseph Cheung** (Co-Advisor) | • Emails: `cheungj@scc.losrios.edu`; `kainaa@scc.losrios.edu`<br>• Phones: **`(916) 501-8208`**; **`(916) 606-6846`** | https://www.scc.losrios.edu/campus-life/active-clubs/it-and-cybersecurity-club |
-| 47 | **Claremont Graduate University, California, USA** | CGU Cybersecurity Club | **Cesar Barrera** (President); **Ayush Enkhtaivan** (VP); **Nicole Traboulsi** (Treasurer) | **Dr. Chinazunwa Uwaoma** | • Email: `cyberclub@cgu.edu` | https://research.cgu.edu/icdc/2025/05/16/cybersecurity-club-at-cgu-gets-2025-2026-officers/ |
-| 48 | **Ogeechee Technical College, Georgia, USA** | Cybersecurity Club (ARPe-DIEM) | Not listed | **Terry Hand** | • Email: `thand@ogeecheetech.edu` | https://ogeecheetech.edu/student-services/cybersecurity-club |
-| 49 | **University of Central Florida (UCF), USA** | Robotics Club at UCF | **Alan Mark** (VP) | **Crystal Maraj** | • Via club site | https://robotics.ucf.edu/about/index |
-| 50 | **Maynooth University, Ireland** | Engineering Robotics Society | **David Murtagh** (President); **David Soyele** (VP); **Cormac Regan** (Treasurer); **Meda Griniute** (PRO) | Not listed | • Via MU Life society page | https://maynoothuniversity.ie/node/419144 |
 
 ---
 
-## 7. Deep-Dive Club Rosters: KIIT (6 Clubs), IIIT Hyderabad (5 Clubs), IEEE NSUT, NSUT AIAS, IEEE DTU & GDG IIIT Allahabad
+## 7. Deep-Dive Club Rosters: KIIT (6 Clubs), IIIT Hyderabad (5 Clubs), IEEE NSUT, NSUT AIAS, IEEE DTU, GDG IIIT Allahabad & 40 Indian Club Profiles
 
 ### 4. Detailed Club Profiles — KIIT University, Bhubaneswar (6 Clubs)
-
-
 
 ### 4.1. KIIT University — IoT Lab
 | Field | Details |
@@ -591,7 +577,7 @@
 
 ---
 
-## 7. Detailed Club Profiles — 49 College Technical & Coding Clubs (Full Sheets)
+### 7. Detailed Club Profiles — 40 Indian College Technical & Coding Clubs (Full Sheets)
 
 ### 7.1. Rustamji Institute of Technology (RJIT), Gwalior — GDG On Campus RJIT
 - **College Name:** Rustamji Institute of Technology (RJIT), Gwalior, Madhya Pradesh
@@ -1074,124 +1060,6 @@
 - **Official Source:** https://www.gnits.ac.in/?p=38920
 - **Verification Note:** Phone numbers are the faculty numbers published in the club report.
 
-### 7.41. University of Detroit Mercy, Michigan, USA — Detroit Mercy Cybersecurity Club
-- **College Name:** University of Detroit Mercy, Michigan, USA
-- **Club Name:** Detroit Mercy Cybersecurity Club
-- **Club Category:** Technical – Cybersecurity
-- **Club Description:** Student cybersecurity club with annual officer elections.
-- **Faculty Advisors:** Anne Kohnke – `kohnkean@udmercy.edu`; Gregory Laidlaw (Dept. Chair, Cybersecurity & Information Systems) – `laidlags@udmercy.edu`
-- **Officers:** 2026-27 officers are listed on the source page (names not captured)
-- **Official Source:** https://sites.udmercy.edu/cyberclub/officers-advisors/
-- **Verification Note:** Officer names were not captured; open the page.
-
-### 7.42. Chittagong Independent University (CIU), Bangladesh — CIU Robotics Club
-- **College Name:** Chittagong Independent University (CIU), Bangladesh
-- **Club Name:** CIU Robotics Club
-- **Club Category:** Technical – Robotics
-- **Club Description:** Technology-focused student organization under the School of Science & Engineering.
-- **Faculty Advisor:** Dr. Aseef Iqbal (Dean) – `aseef@ciu.edu.bd`
-- **President:** Fahmida Tahsin – `22102017@ciu.edu.bd`
-- **VP (Technical):** Md. Sahid Hossain
-- **VP (Admin):** Abu Mushaid Ivn Musa Alif
-- **General Secretary:** Rasfi Nur
-- **Asst. General Secretary:** Prabak Chowdhury
-- **Official Source:** https://ciu.ac.bd/?p=6520
-- **Verification Note:** Personal (non-university) officer emails on the page are not copied here.
-
-### 7.43. Cleveland State University, Ohio, USA — CSU Robotics Club
-- **College Name:** Cleveland State University, Ohio, USA
-- **Club Name:** CSU Robotics Club
-- **Club Category:** Technical – Robotics
-- **Club Description:** Robotics student organization listed in the engineering student-organizations page.
-- **Faculty Advisor:** Toufik Adija (page spells the email as `t.aidja@csuohio.edu`)
-- **Club Email:** `csurobotics@gmail.com`
-- **President:** Not listed
-- **Official Source:** https://engineering.csuohio.edu/student-resources/engineering-student-organizations
-- **Verification Note:** The advisor's name and email spelling differ on the page; check before emailing.
-
-### 7.44. Tennessee Technological University, USA — Autonomous Robotics Club (ARC)
-- **College Name:** Tennessee Technological University, USA
-- **Club Name:** Autonomous Robotics Club (ARC)
-- **Club Category:** Technical – Robotics
-- **Club Description:** Inspires students to learn robotics hands-on and then to inspire the community.
-- **Faculty Advisor:** Dr. Stephen Canfield
-- **Student Officers:** Not listed
-- **Public Contact:** Via the Mechanical Engineering student organizations page
-- **Official Source:** https://ouweb.tntech.edu/engineering/programs/me/student-org.php
-- **Verification Note:** No club-specific email was captured.
-
-### 7.45. Southern Utah University, USA — Cyber Defense Competition Club (CDCC)
-- **College Name:** Southern Utah University, USA
-- **Club Name:** Cyber Defense Competition Club (CDCC)
-- **Club Category:** Technical – Cybersecurity competition
-- **Club Description:** Club sponsored by the Computer Science & Cybersecurity department.
-- **Faculty Advisor:** Dr. Glen Sagers
-- **Advisor Email:** `glensagers@suu.edu`
-- **Advisor Phone:** `(435) 865-8634`
-- **Official Source:** https://www.suu.edu/cscy/clubs-orgs.html
-- **Verification Note:** Student officers are not listed.
-
-### 7.46. Sacramento City College, California, USA — IT & Cybersecurity Club
-- **College Name:** Sacramento City College, California, USA
-- **Club Name:** IT & Cybersecurity Club
-- **Club Category:** Technical – IT & Cybersecurity
-- **Club Description:** Student club at Sacramento City College.
-- **Advisor:** Name not captured – `kainaa@scc.losrios.edu`; `(916) 606-6846`
-- **Co-Advisor:** Joseph Cheung – `cheungj@scc.losrios.edu`; `(916) 501-8208`
-- **President:** Omair Qazi
-- **Treasurer:** Simon Vu Truong
-- **Official Source:** https://www.scc.losrios.edu/campus-life/active-clubs/it-and-cybersecurity-club
-- **Verification Note:** The first advisor's name was cut off in the retrieved text.
-
-### 7.47. Claremont Graduate University, California, USA — CGU Cybersecurity Club
-- **College Name:** Claremont Graduate University, California, USA
-- **Club Name:** CGU Cybersecurity Club
-- **Club Category:** Technical – Cybersecurity
-- **Club Description:** Student-led cybersecurity club founded September 2024 under Dr. Chinazunwa Uwaoma.
-- **President (2025-26):** Cesar Barrera
-- **Vice President (2025-26):** Ayush Enkhtaivan
-- **Treasurer (2025-26):** Nicole Traboulsi
-- **Faculty Guide:** Dr. Chinazunwa Uwaoma
-- **Public Contact Email:** `cyberclub@cgu.edu` (shown as 'cyberclub [at] cgu.edu')
-- **Official Source:** https://research.cgu.edu/icdc/2025/05/16/cybersecurity-club-at-cgu-gets-2025-2026-officers/
-- **Verification Note:** Officers are for 2025-26; a 2026-27 slate may exist.
-
-### 7.48. Ogeechee Technical College, Georgia, USA — Cybersecurity Club (ARPe-DIEM)
-- **College Name:** Ogeechee Technical College, Georgia, USA
-- **Club Name:** Cybersecurity Club (ARPe-DIEM)
-- **Club Category:** Technical – Cybersecurity
-- **Club Description:** College cybersecurity club hosting guest speakers and seminars.
-- **Advisor:** Terry Hand (Cybersecurity Instructor)
-- **Advisor Email:** `thand@ogeecheetech.edu`
-- **Student Officers:** Not listed
-- **Official Source:** https://ogeecheetech.edu/student-services/cybersecurity-club
-- **Verification Note:** Student officers are not listed.
-
-### 7.49. University of Central Florida (UCF), USA — Robotics Club at UCF
-- **College Name:** University of Central Florida (UCF), USA
-- **Club Name:** Robotics Club at UCF
-- **Club Category:** Technical – Robotics
-- **Club Description:** Student-run robotics club of undergraduate and graduate members.
-- **Advisor:** Crystal Maraj
-- **Vice President (listed):** Alan Mark (Mechanical Engineer)
-- **Public Contact:** Via club site
-- **Official Source:** https://robotics.ucf.edu/about/index
-- **Verification Note:** Officer list is undated.
-
-### 7.50. Maynooth University, Ireland — Engineering Robotics Society
-- **College Name:** Maynooth University, Ireland
-- **Club Name:** Engineering Robotics Society
-- **Club Category:** Technical – Robotics
-- **Club Description:** Student society for engineering and robotics at Maynooth University.
-- **President:** David Murtagh
-- **Vice President:** David Soyele
-- **Treasurer:** Cormac Regan
-- **Public Relations Officer:** Meda Griniute
-- **Public Contact:** Email is hidden on the page (MU Life clubs & societies listing)
-- **Official Source:** https://maynoothuniversity.ie/node/419144
-- **Verification Note:** The page does not give an academic year; confirm current officers.
-
-
 ---
 
 ## 8. Complete Coding, CyberSec & IEEE Clubs Instagram Directory (95+ Official Handles)
@@ -1333,7 +1201,7 @@ Could you share the WhatsApp number or email of your club's PR/Outreach lead so 
 
 ## 9. Quick-Copy Bulk BCC Email Lists & Ready-to-Use Email / Instagram DM Templates
 
-### 9.1. MASTER LIST: Direct Coding Clubs, CyberSec Clubs, IEEE Chapters & Tech Secretaries (105+ Direct Emails — HIGHEST PRIORITY)
+### 9.1. MASTER LIST: Direct Coding Clubs, CyberSec Clubs, IEEE Chapters & Tech Secretaries (105+ Direct Indian Club Emails — HIGHEST PRIORITY)
 ```text
 pcon@nitjsr.ac.in, pitechnical@nitjsr.ac.in, coding.club@nitp.ac.in, HackSlash@nitp.ac.in, ieee.nitp@nitp.ac.in, sac@nitrkl.ac.in, sethd@nitrkl.ac.in, dashjc@nitrkl.ac.in, recursion.nit@gmail.com, nitdlug@gmail.com, ieeesb.nitdgp@gmail.com, computer.club@mnnit.ac.in, clickclub@nitrr.ac.in, sbhowmick.mech@nitrr.ac.in, rajdor.it@nitrr.ac.in, csclubmnit@gmail.com, sbieee@mnit.ac.in, dsc@nitj.ac.in, ccnitsilchar@gmail.com, amartyaahmed@gmail.com, anarc.nita.robotics@gmail.com, ieee-sb@nitt.edu, rajeswari@nitt.edu, ca@nitt.edu, acm@nitk.edu.in, csea@nitw.ac.in, csea@nitc.ac.in, swatijaiswal@cse.vnit.ac.in, hod@coed.svnit.ac.in, ad_sas@nith.ac.in, techclub@nitdelhi.ac.in, ieee-stb@nitpy.ac.in, thellababurao@nitandhra.ac.in, info@iiitranchi.in, dsc@iiitbh.ac.in, psoc@iiit-bh.ac.in, abir@iiitnr.edu.in, geekhaven@iiita.ac.in, oic.tac@iiita.ac.in, aasf@iiitm.ac.in, aasf.iiitmg@gmail.com, techknow@iiitkota.ac.in, coordinator.sac@iiitu.ac.in, shatrughanmodi@iiitu.ac.in, enigmatics@iiitsonepat.ac.in, cultsoc.iiitbhopal@gmail.com, codingclub@iiitvadodara.ac.in, dotslash.communityiiitn@gmail.com, programming@iiits.in, president.sdc@iiits.in, secretary.sdc@iiits.in, techclub@iiitkottayam.ac.in, gensec_1@iiitr.ac.in, head_cc@iiitk.ac.in, cse@iiitagartala.ac.in, gdsc@iiitmanipur.ac.in, tech-secy@sc.iiitd.ac.in, clubs-coordinator@sc.iiitd.ac.in, studentcouncil@iiitd.ac.in, hacking.club@students.iiit.ac.in, clubs@iiit.ac.in, leanin@iiitb.ac.in, cyberlabs@iitism.ac.in, 25MS0006@iitism.ac.in, njack@iitp.ac.in, general_secretary@stciitphybrid.in, office.gymkhana@iitbbs.ac.in, gs.tech@iitrpr.ac.in, fa.sa.bost@iitrpr.ac.in, president.sc@iitrpr.ac.in, pc@students.iitmandi.ac.in, technical_secretary@students.iitmandi.ac.in, general_secretary@students.iitmandi.ac.in, iitbhu.cops@gmail.com, coding@iitgn.ac.in, studentgym@iiti.ac.in, dsai_club@iitbhilai.ac.in, adean.sw.gymkhana@iitdh.ac.in, infoseciitr@iitr.ac.in, infoseciitr@gmail.com, gsectsg-tech@hijli.iitkgp.ac.in, contact@kossiitkgp.org, admin@kossiitkgp.org, wncc@iitb.ac.in, kludge@gymkhana.iith.ac.in, codingclubiitg@gmail.com, contact@ieeedtu.in, ieeensut@gmail.com, ieee@nsut.ac.in, bhat.hemang@gmail.com, mkumar@rnc.amity.edu, priyanka.srivastava@sbu.ac.in, Sshekhar1@ptn.amity.edu, ajit.pasayatfcs@kiit.ac.in, 23052295@kiit.ac.in, 2306202@kiit.ac.in, 2305671@kiit.ac.in, sankalp.nayakfcs@kiit.ac.in, 22052490@kiit.ac.in, abhaya.sahoofcs@kiit.ac.in, khusheeranjan@gmail.com, arihanta@ieee.org, ieeehitsb@gmail.com, hitbranchieee@gmail.com, geekonix.tmsl@ticollege.org, iem.eedepartment@gmail.com, anik76in@yahoo.co.in, arindrajit@gmail.com, ieeesbjiitweb@gmail.com, shubham0568@ieee.org, ieeeias.gu@gmail.com, innogeeks@kiet.edu, jitendra.seth@kiet.edu, softwareincubator.si@gmail.com, iec2t@akgec.ac.in, ieee.sb.gehu@gmail.com, upesieee2015@gmail.com, ieee.aur@gmail.com, sthakur3@amity.edu, rbhel@amity.edu, srnayak@amity.edu, gdgoncampusrjit@gmail.com, hackwithindiarrce@gmail.com, codersclubldce@gmail.com, codingclub@iiserbpr.ac.in, programmingclubsona@gmail.com, vidyasagar.setti@raghuenggcollege.in, renuka.gound@nmiet.edu.in, kotteshwar.rao@nmiet.edu.in, srkadam@mitacsc.ac.in, purviramanuj@vgecg.ac.in, vasudeva.cs.smvitm@ieee.org, akhileshkumar.sharma@jaipur.manipal.edu
 ```
