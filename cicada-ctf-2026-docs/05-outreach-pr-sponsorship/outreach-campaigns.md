@@ -25,6 +25,8 @@ This section documents the institutional, inter-college, IEEE student branch, an
 ### 4.2 Institution & Community Outreach Tracker
 - **Master College & Club Email Directory (115+ NITs, IIITs, IITs & Private Colleges):** [College Outreach Contacts](./college-outreach-contacts.md)
 - **Coding, CyberSec & IEEE Clubs Instagram Directory (90+ Handles):** [Coding Clubs Instagram Directory](./coding-clubs-instagram.md)
+- **Compiled Club Leads, WhatsApp Contacts & Detailed Sheets (75+ Clubs):** [Compiled Clubs & Contacts Directory](./compiled-clubs-and-contacts.md)
+- **Excel Spreadsheet — All Club Tables & Detailed Sheets (`.xlsx`):** [Download `college-clubs-outreach-sheet.xlsx`](./college-clubs-outreach-sheet.xlsx)
 
 | S.No. | Target Institution / Club / Community | Location / Region | Outreach Channel | Community Partner MoU? | Registered Teams Generated |
 | :--- | :--- | :--- | :--- | :--- | :--- |
